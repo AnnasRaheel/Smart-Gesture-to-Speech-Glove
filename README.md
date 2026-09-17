@@ -123,5 +123,5 @@ Prototype completed and demonstrated as a final-year Mechatronics Engineering pr
 
 ---
 
-Smart Communication. Intelligent Translation. Complete Accessibility.
+**Smart Communication. Intelligent Translation. Complete Accessibility.**
 
